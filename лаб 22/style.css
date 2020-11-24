@@ -1,0 +1,18 @@
+body{
+    background-image:url(Can-you-find-the-potato-in-this-sea-of-hamsters-kopiya.jpg);
+    background-position: 0 -750px;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+span{
+    font-size:100px;
+    font-size: 250px;
+    font-size: 250px;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 64%;
+    color:transparent;
+}

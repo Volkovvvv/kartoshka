@@ -1,0 +1,29 @@
+.hi{
+    
+    font-size:50px;
+    text-align: center;
+    color:#fff;
+}
+body{
+    background-color:rgba(138, 108, 108, 0.89);
+}
+img{
+    display: block;
+  
+}
+img{
+   margin:0 auto;
+   display:block;
+   height: 500px;
+   width: 800px;
+}
+a{
+    color:transparent;
+}
+.d{
+    font-size: 180px;
+    margin-top: -16%;
+    margin-left: 50%;
+    color:transparent;
+
+}
